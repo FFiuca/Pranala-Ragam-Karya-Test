@@ -1,0 +1,6 @@
+[submodule "be"]
+	path = be
+	url = https://github.com/FFiuca/Test_technical_code
+[submodule "fe"]
+	path = fe
+	url = https://github.com/FFiuca/fe_test_technical_code.git
